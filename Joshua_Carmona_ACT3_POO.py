@@ -74,4 +74,4 @@ class Validar(SolicitarDatos):
 Iniciar = Validar()
 print(Iniciar)
 
-# Programa hecho por Joshua Carmona - 87733 (Programacion Orientada a Objetos - Act 3) 19/06/2025
+# Programa hecho por Joshua Carmona - 87733 (Programacion Orientada a Objetos - Act 3) 19/07/2025
