@@ -1,0 +1,46 @@
+header{
+    background-color: #D9AAE9; height: 150px;
+    background-image: url(headerIMG.jpg);
+    border-radius: 15%;
+    padding-top: 20px;
+    }
+
+body{
+    background-image: url(BodyIMG.jpg); text-align: center;
+    }
+
+main{
+    background-image: url(MainIMG.jpg);
+    border-radius: 35%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer{
+    background-image: url(footerIMG.jpg);
+    border-radius: 35%;
+    }
+
+.logotipo{
+    height: 150px; width: 150px; float:left;
+    }
+                
+.ImagenesEjem{ 
+    height: 200px; width: 200px;
+    outline-style: groove;
+     }
+                
+ul.cosasfooter li{
+    font-size: 30px;
+    padding: 30px;
+    display: inline;
+    }
+
+.Link{
+    font-size: 25px;
+}
+                                    
